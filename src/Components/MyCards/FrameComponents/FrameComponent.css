@@ -1,0 +1,83 @@
+.account-number4 {
+    position: relative;
+    line-height: 20px;
+  }
+  .account-number-container {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 24px;
+  }
+  .ab11-6666-7777 {
+    position: relative;
+    line-height: 22px;
+  }
+  .ab11-6666-7777-8888-9999-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 24px 7px;
+  }
+  .account-holder4,
+  .sona-user3 {
+    position: relative;
+    line-height: 20px;
+  }
+  .sona-user3 {
+    line-height: 22px;
+  }
+  .card-details,
+  .gold-trading-account-label {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .gold-trading-account-label {
+    flex-direction: column;
+    gap: 3.5px 0;
+  }
+  .card-details {
+    flex-direction: row;
+    padding: 0 24px 16px;
+  }
+  .trade-now1 {
+    position: relative;
+    font-size: 12px;
+    line-height: 22px;
+    font-family: Manrope;
+    color: #fff;
+    text-align: left;
+  }
+  .container-66,
+  .frame-parent3 {
+    align-self: stretch;
+    display: flex;
+    align-items: flex-start;
+  }
+  .container-66 {
+    cursor: pointer;
+    border: 0;
+    padding: 15.5px 20px 11.5px;
+    background-color: #d90503;
+    border-radius: 25px;
+    box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 0 1px rgba(23, 26, 31, 0.07);
+    flex-direction: row;
+    justify-content: center;
+    white-space: nowrap;
+    margin: 10px;
+  }
+  .container-66:hover {
+    background-color: #ff2b29;
+  }
+  .frame-parent3 {
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 3.5px 0;
+    text-align: left;
+    font-size: 12px;
+    color: #fff;
+    font-family: Manrope;
+  }
+  

@@ -1,0 +1,63 @@
+.image-55-icon {
+    width: 13px;
+    height: 16px;
+    position: relative;
+    border-radius: 4px;
+    object-fit: cover;
+  }
+  .image-55-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 15px 0 0;
+  }
+  .recent-trades {
+    align-self: stretch;
+    position: relative;
+    line-height: 20px;
+  }
+  .div1 {
+    position: relative;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  .container,
+  .container-50,
+  .recent-trades-parent {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .container {
+    flex-direction: row;
+    padding: 0 6px;
+    text-align: left;
+  }
+  .container-50,
+  .recent-trades-parent {
+    flex: 1;
+    flex-direction: column;
+    gap: 7px 0;
+  }
+  .container-50 {
+    flex: 0.9652;
+    border-radius: 39px;
+    background-color: #2e2e2f;
+    box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 0 1px rgba(23, 26, 31, 0.07);
+    flex-direction: row;
+    padding: 16px 54px 12px 24px;
+    box-sizing: border-box;
+    gap: 0 18px;
+    min-width: 100px;
+    text-align: center;
+    font-size: 12px;
+    color: #fff;
+    font-family: Manrope;
+  }
+  @media screen and (max-width: 450px) {
+    .container-50 {
+      flex: 1;
+    }
+  }
+  

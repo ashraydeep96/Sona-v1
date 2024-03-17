@@ -1,0 +1,519 @@
+.image-41-icon {
+    width: 391px;
+    position: relative;
+    border-radius: 4px;
+    max-height: 100%;
+    object-fit: cover;
+    max-width: 100%;
+  }
+  .effortless,
+  .sona-makes-trading {
+    margin: 0;
+  }
+  .sona-makes-trading-container {
+    margin: 0;
+    align-self: stretch;
+    position: relative;
+    font-size: inherit;
+    line-height: 34px;
+    font-weight: 700;
+    font-family: inherit;
+  }
+  .buy-trade-and {
+    flex: 1;
+    position: relative;
+    line-height: 22px;
+  }
+  .container-info {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 70px;
+    font-size: 14px;
+    font-family: Manrope;
+  }
+  .container-32,
+  .frame-content,
+  .sona-headline {
+    display: flex;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .sona-headline {
+    flex: 1;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 21px 0;
+  }
+  .container-32,
+  .frame-content {
+    box-sizing: border-box;
+  }
+  .frame-content {
+    width: 388px;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0 13px;
+  }
+  .container-32 {
+    flex: 1;
+    border-radius: 4px;
+    background-color: #d90503;
+    box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 0 1px rgba(23, 26, 31, 0.07);
+    flex-direction: column;
+    align-items: center;
+    padding: 171px 23px 161px 20px;
+    gap: 80px 0;
+    min-width: 468px;
+    min-height: 100%;
+  }
+  .sona {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    line-height: 42px;
+    font-weight: 700;
+    font-family: inherit;
+  }
+  .text-username {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0 0 25px;
+  }
+  .access-trading {
+    position: relative;
+    font-size: 14px;
+    line-height: 22px;
+    font-family: Manrope;
+  }
+  .container-password,
+  .frame-input {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .container-password {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: center;
+    max-width: 100%;
+  }
+  .container-31,
+  .login {
+    background-color: #161616;
+    display: flex;
+    justify-content: flex-start;
+    box-sizing: border-box;
+  }
+  .container-31 {
+    flex: 0.8802;
+    border-radius: 4px;
+    box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 0 1px rgba(23, 26, 31, 0.07);
+    flex-direction: column;
+    align-items: flex-end;
+    padding: 61px 61px 204px 63px;
+    gap: 100px 0;
+    min-width: 468px;
+    max-width: 100%;
+    z-index: 1;
+    margin-left: -1px;
+    text-align: left;
+  }
+  .login {
+    width: 100%;
+    position: relative;
+    box-shadow: 0 3px 6px rgba(18, 15, 40, 0.12);
+    overflow: hidden;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0 2px 2px 0;
+    letter-spacing: normal;
+    row-gap: 20px;
+    cursor: pointer;
+    text-align: center;
+    font-size: 28px;
+    color: #fff;
+    font-family: Lexend;
+  }
+  @media screen and (max-width: 1125px) {
+    .login {
+      flex-wrap: wrap;
+      padding-left: 2px;
+      padding-top: 2px;
+      box-sizing: border-box;
+    }
+  }
+  @media screen and (max-width: 1050px) {
+    .container-32 {
+      padding-top: 111px;
+      padding-bottom: 105px;
+      box-sizing: border-box;
+    }
+    .container-31 {
+      padding-bottom: 133px;
+      box-sizing: border-box;
+      margin-left: 0;
+    }
+  }
+  @media screen and (max-width: 750px) {
+    .container-31,
+    .container-32 {
+      min-width: 100%;
+    }
+    .container-31 {
+      gap: 66px 0;
+      padding-left: 31px;
+      padding-right: 30px;
+      box-sizing: border-box;
+      flex: 1;
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .sona-makes-trading-container {
+      font-size: 22px;
+      line-height: 27px;
+    }
+    .container-info {
+      padding-left: 20px;
+      padding-right: 20px;
+      box-sizing: border-box;
+    }
+    .container-32 {
+      gap: 40px 0;
+      padding-top: 72px;
+      padding-bottom: 68px;
+      box-sizing: border-box;
+    }
+    .sona {
+      font-size: 22px;
+      line-height: 34px;
+    }
+    .container-31 {
+      gap: 33px 0;
+      padding-bottom: 86px;
+      box-sizing: border-box;
+    }
+  }
+  .log-in {
+    margin: 0;
+    position: relative;
+    font-size: 28px;
+    line-height: 42px;
+    font-weight: 700;
+    font-family: Lexend;
+    color: #fff;
+    text-align: left;
+    white-space: nowrap;
+  }
+  .log-in-text {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 2px;
+  }
+  .enter-your-username,
+  .secure-login-required1 {
+    position: relative;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 22px;
+    font-family: Manrope;
+    color: #fff;
+    text-align: left;
+  }
+  .enter-your-username {
+    width: 500px;
+    border: 0;
+    outline: 0;
+    background-color: transparent;
+    height: 22px;
+    color: #bdc1ca;
+    display: inline-block;
+    padding: 0;
+  }
+  .container-28 {
+    align-self: stretch;
+    border-radius: 25px;
+    background-color: #2f2f2f;
+    box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 0 1px rgba(23, 26, 31, 0.07);
+    border: 1px solid #9095a0;
+    flex-direction: row;
+    padding: 15px 9px 12px;
+  }
+  .container-28,
+  .container-error,
+  .forgot-password-label,
+  .username-field {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .username-field {
+    align-self: stretch;
+    flex-direction: column;
+    gap: 20px 0;
+  }
+  .container-error,
+  .forgot-password-label {
+    max-width: 100%;
+  }
+  .container-error {
+    flex: 1;
+    flex-direction: column;
+    gap: 17px 0;
+  }
+  .forgot-password-label {
+    align-self: stretch;
+    flex-direction: row;
+    padding: 0 0 11px 1px;
+    box-sizing: border-box;
+  }
+  .password {
+    position: relative;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 22px;
+    font-family: Manrope;
+    color: #fff;
+    text-align: left;
+  }
+  .access-trading-text {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 1px;
+  }
+  .enter-your {
+    width: 500px;
+    font-weight: bold;
+    border: 0;
+    outline: 0;
+    font-family: Manrope;
+    font-size: 18px;
+    background-color: transparent;
+    height: 22px;
+    position: relative;
+    line-height: 22px;
+    color: #bdc1ca;
+    white-space: pre-wrap;
+    text-align: left;
+    display: inline-block;
+    padding: 0;
+  }
+  .container-29 {
+    align-self: stretch;
+    border-radius: 25px;
+    background-color: #2f2f2f;
+    box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 0 1px rgba(23, 26, 31, 0.07);
+    border: 1px solid #9095a0;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 14px 9px 13px;
+  }
+  .log-in1 {
+    position: relative;
+    font-size: 14px;
+    line-height: 22px;
+    font-family: Manrope;
+    color: #565d6d;
+    text-align: left;
+  }
+  .container-30 {
+    cursor: pointer;
+    border: 1px solid #646464;
+    padding: 20px 20px 15px 22px;
+    background-color: #fff;
+    align-self: stretch;
+    border-radius: 29px;
+    box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 0 1px rgba(23, 26, 31, 0.07);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    white-space: nowrap;
+  }
+  .container-30:hover {
+    background-color: #e6e6e6;
+    border: 1px solid #8a8a8a;
+    box-sizing: border-box;
+  }
+  .frame-password1 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: 23px 0;
+  }
+  .forgot-your-password {
+    position: relative;
+    font-size: 14px;
+    line-height: 22px;
+    font-family: Manrope;
+    color: #fff;
+    text-align: left;
+  }
+  .access-trading-text1,
+  .main-container {
+    align-self: stretch;
+    display: flex;
+    align-items: flex-start;
+  }
+  .access-trading-text1 {
+    flex-direction: row;
+    justify-content: center;
+    padding: 0 20px 0 22px;
+  }
+  .main-container {
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 20px 0;
+  }
+  .dont-have-an,
+  .signup {
+    font-family: Manrope;
+  }
+  .signup {
+    text-decoration: underline;
+  }
+  .forgot-your-password-container {
+    position: relative;
+    font-size: 14px;
+    line-height: 22px;
+    color: #fff;
+    text-align: left;
+  }
+  .forgot-password-frame,
+  .frame-password {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .forgot-password-frame {
+    flex-direction: row;
+    padding: 0 72px 0 75px;
+  }
+  .frame-password {
+    margin: 0;
+    width: 353px;
+    flex-direction: column;
+    gap: 20px 0;
+    max-width: 100%;
+  }
+  @media screen and (max-width: 450px) {
+    .log-in {
+      font-size: 22px;
+      line-height: 34px;
+    }
+    .forgot-password-frame {
+      padding-left: 20px;
+      padding-right: 20px;
+      box-sizing: border-box;
+    }
+  }
+  .card {
+    position: fixed;
+    top: 53%;
+    bottom: -47%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    padding: 0px;
+    border-radius: 25px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    animation: slideIn 0.3s ease-in-out;
+    width: 100%;
+    max-width: 1400px;
+    max-height: 787px;
+    z-index: 999;
+  }
+
+  .blur-background.blur {
+    filter: blur(5px);
+  }  
+  
+  @keyframes slideIn {
+    from {
+      transform: translate(-50%, -150%);
+      opacity: 0;
+    }
+    to {
+      transform: translate(-50%, -50%);
+      opacity: 1;
+    }
+  }
+
+  .g-sign-in-button{
+    position: relative;
+    top: 50%;
+    left: 57%;
+    transform: translate(-50%, -50%);
+    margin: 10px;
+    display: inline-block;
+    width: 270px;
+    height: 56px;
+    background-color: #4285f4;
+    color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.25);
+    transition: background-color .218s, border-color .218s, box-shadow .218s; 
+  }
+
+  .g-sign-in-button:hover{
+    cursor: pointer;
+    -webkit-box-shadow: 0 0 3px 3px rgba(66, 133, 244, .3);
+    box-shadow: 0 0 3px 3px rgba(66, 133, 244, .3);
+  }
+
+  .g-sign-in-button:active{
+    background-color: #3367d6;
+    transition: background-color .2s;
+  }
+  .g-sign-in-button .google-wrapper{
+    height: 100%;
+    width: 100%;
+    border: 1px solid transparent;
+  }
+  .g-sign-in-button img{
+    width: 25px;
+    height: 25px;
+    margin-bottom: 12px;
+    margin-top: -4px;
+  }
+  .g-sign-in-button .logo-wrapper{
+    padding: 15px;
+    margin: 5px;
+    background: #fff;
+    width: 25px;
+    height: 15px;
+    border-radius: 5px;
+    display: inline-block;
+  }
+  .g-sign-in-button .text-container{
+    font-family: "Roboto", arial, sans-serif;
+    font-weight: bold;
+    letter-spacing: .21px;
+    font-size: 16px;
+    line-height: 48px;
+    vertical-align: top;
+    border: none;
+    display: inline-block;
+    text-align: center;
+    width: 180px;
+    margin-top: 4px;
+  }
+
+  .Or{
+    margin-bottom: 6px;
+    margin-top: -18px;
+    margin-left: 25px;
+  }

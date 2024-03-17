@@ -1,0 +1,1168 @@
+.accounts-and-cards {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    line-height: 32px;
+    font-weight: 700;
+    font-family: inherit;
+  }
+  .image-118-icon {
+    width: 22px;
+    height: 22px;
+    position: relative;
+    border-radius: 4px;
+    object-fit: cover;
+  }
+  .view-details {
+    width: 84px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .sona1 {
+    position: relative;
+    line-height: 22px;
+  }
+  .account-holder {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 1.5px 0 0;
+  }
+  .image-123-icon {
+    width: 15px;
+    height: 12px;
+    position: relative;
+    border-radius: 4px;
+    object-fit: cover;
+  }
+  .type-physical {
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 5px 0 0;
+  }
+  .secure-login-reqd,
+  .security-code,
+  .type-physical {
+    display: flex;
+    align-items: flex-start;
+  }
+  .secure-login-reqd {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  .security-code {
+    width: 206px;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 3.5px 0 0;
+    box-sizing: border-box;
+    font-size: 12px;
+    font-family: Manrope;
+  }
+  .account-number,
+  .s-g-b {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    max-width: 100%;
+  }
+  .s-g-b {
+    flex: 1;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  .account-number {
+    align-self: stretch;
+    justify-content: flex-start;
+    padding: 0 1px;
+    box-sizing: border-box;
+  }
+  .my-accounts {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    line-height: 32px;
+    font-weight: 700;
+    font-family: inherit;
+  }
+  .trading-account {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 3px;
+  }
+  .ab11-2222-3333,
+  .account-number1 {
+    position: relative;
+    line-height: 20px;
+  }
+  .ab11-2222-3333 {
+    line-height: 22px;
+  }
+  .sona-text {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 3.5px 0;
+  }
+  .account-holder1,
+  .sona-user {
+    position: relative;
+    line-height: 20px;
+  }
+  .sona-user {
+    line-height: 22px;
+  }
+  .gold-account-frame {
+    flex-direction: column;
+    gap: 3.5px 0;
+  }
+  .gold-account-frame,
+  .sona-logo,
+  .trade-button {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .sona-logo {
+    flex-direction: column;
+    gap: 10.5px 0;
+  }
+  .trade-button {
+    flex-direction: row;
+    padding: 0 24px;
+  }
+  .trade-now {
+    position: relative;
+    font-size: 12px;
+    line-height: 22px;
+    font-family: Manrope;
+    color: #fff;
+    text-align: left;
+  }
+  .container-65 {
+    cursor: pointer;
+    border: 0;
+    padding: 15.5px 20px 11.5px;
+    background-color: #d90503;
+    align-self: stretch;
+    border-radius: 25px;
+    box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 0 1px rgba(23, 26, 31, 0.07);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    white-space: nowrap;
+    margin: 10px;
+  }
+  .container-65:hover,
+  .container-68:hover,
+  .container-69:hover {
+    background-color: #ff2b29;
+  }
+  .container-73,
+  .container-74,
+  .parent-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .parent-container {
+    align-self: stretch;
+    gap: 19.5px 0;
+  }
+  .container-73,
+  .container-74 {
+    flex: 1;
+    border-radius: 19px;
+    background-color: #2f2f2e;
+    box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 0 1px rgba(23, 26, 31, 0.07);
+    padding: 23px 0 0 1px;
+    box-sizing: border-box;
+    gap: 42px 0;
+    min-width: 253px;
+    max-width: 100%;
+  }
+  .physical-gold-account {
+    position: relative;
+    line-height: 24px;
+  }
+  .physical-gold-account-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0 0 2px;
+  }
+  .current-value {
+    position: relative;
+    font-size: 12px;
+    line-height: 20px;
+    color: #bdc1ca;
+  }
+  .frame-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 17.5px 0;
+  }
+  .image-108-icon {
+    height: 22px;
+    width: 22px;
+    position: relative;
+    border-radius: 4px;
+    object-fit: cover;
+  }
+  .div {
+    position: relative;
+    line-height: 22px;
+  }
+  .wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 1.5px 0 0;
+  }
+  .frame-group,
+  .image-108-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  .image-108-parent {
+    justify-content: flex-start;
+    gap: 0 12px;
+    font-size: 12px;
+  }
+  .frame-group {
+    align-self: stretch;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  .physical-gold-1 {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    line-height: 42px;
+    font-weight: 700;
+    font-family: inherit;
+  }
+  .frame-parent,
+  .physical-gold-1-oz-wrapper {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .physical-gold-1-oz-wrapper {
+    flex-direction: row;
+    padding: 0 3px;
+    font-size: 28px;
+    font-family: Lexend;
+  }
+  .frame-parent {
+    flex: 1;
+    flex-direction: column;
+    gap: 12px 0;
+  }
+  .container-75-inner {
+    width: 329px;
+    flex-direction: row;
+    padding: 0 23px;
+    box-sizing: border-box;
+  }
+  .container-75,
+  .container-75-inner,
+  .current-gold,
+  .login-button {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .container-75 {
+    flex: 1;
+    border-radius: 19px;
+    background-color: #2f2f2e;
+    box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 0 1px rgba(23, 26, 31, 0.07);
+    flex-direction: column;
+    padding: 23px 0 0 1px;
+    box-sizing: border-box;
+    gap: 44px 0;
+    min-width: 253px;
+    font-size: 14px;
+  }
+  .current-gold,
+  .login-button {
+    align-self: stretch;
+  }
+  .login-button {
+    flex-direction: row;
+    gap: 0 27px;
+    font-size: 12px;
+    font-family: Manrope;
+  }
+  .current-gold {
+    flex-direction: column;
+    padding: 0 0 19.5px;
+    box-sizing: border-box;
+    gap: 26.5px 0;
+  }
+  .my-cards {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    line-height: 32px;
+    font-weight: 700;
+    font-family: inherit;
+  }
+  .my-cards-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 3px;
+  }
+  .current-balance,
+  .sgb-10-units {
+    position: relative;
+    line-height: 20px;
+  }
+  .sgb-10-units {
+    margin: 0;
+    font-size: inherit;
+    line-height: 32px;
+    font-weight: 700;
+    font-family: inherit;
+  }
+  .logo-image,
+  .s-g-b-units-label {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .logo-image {
+    flex-direction: row;
+    padding: 0 0 0 1px;
+    font-size: 20px;
+    font-family: Lexend;
+  }
+  .s-g-b-units-label {
+    flex-direction: column;
+    gap: 2.5px 0;
+  }
+  .secure-login-reqd1 {
+    position: relative;
+    line-height: 26px;
+  }
+  .security-code-container {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 1px;
+  }
+  .login1,
+  .sona-user1 {
+    position: relative;
+    line-height: 22px;
+  }
+  .login-wrapper,
+  .sona-user-parent {
+    display: flex;
+    align-items: flex-start;
+  }
+  .login-wrapper {
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 1px 0 0;
+  }
+  .sona-user-parent {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 20px;
+    font-size: 12px;
+  }
+  .trade-limit-title {
+    align-self: stretch;
+    gap: 18.5px 0;
+    font-size: 16px;
+  }
+  .container-72,
+  .container-with-balance,
+  .trade-limit-title {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .container-72 {
+    align-self: stretch;
+    border-radius: 19px;
+    background-color: #d90503;
+    box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 0 1px rgba(23, 26, 31, 0.07);
+    padding: 109px 26px 18.5px 25px;
+    gap: 57.5px 0;
+  }
+  .container-with-balance {
+    flex: 1;
+    padding: 2px 0 0;
+    box-sizing: border-box;
+    min-width: 146px;
+  }
+  .gold-trading-account {
+    position: relative;
+    line-height: 26px;
+  }
+  .status-frame {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 2px;
+  }
+  .active,
+  .status {
+    position: relative;
+    line-height: 22px;
+  }
+  .image-116-icon {
+    width: 14px;
+    height: 14px;
+    position: relative;
+    border-radius: 4px;
+    object-fit: cover;
+  }
+  .security-code-input {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 2.5px 0 0;
+  }
+  .verific1 {
+    position: relative;
+    line-height: 22px;
+  }
+  .account-number2,
+  .trade-limit {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  .trade-limit {
+    justify-content: flex-start;
+    gap: 0 6px;
+    color: #bdc1ca;
+  }
+  .account-number2 {
+    align-self: stretch;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  .trading-limit-container {
+    width: 131px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 3px 0;
+  }
+  .account-number3 {
+    position: relative;
+    line-height: 22px;
+  }
+  .account-number-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 1px;
+  }
+  .sgb1234567890 {
+    position: relative;
+    line-height: 22px;
+  }
+  .image-111-icon {
+    width: 18px;
+    height: 14px;
+    position: relative;
+    border-radius: 4px;
+    object-fit: cover;
+  }
+  .image1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 2.5px 0 0;
+  }
+  .account-number-label,
+  .account-type-gold {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  .account-type-gold {
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 0 0 3px;
+    gap: 3px 0;
+  }
+  .account-type,
+  .gold {
+    margin-left: 23px;
+    margin-bottom: 10px;
+    margin-top: -5px;
+  }
+  .account-typegold {
+    position: relative;
+    line-height: 19px;
+  }
+  .trade-limit1 {
+    position: absolute;
+    margin: 0 !important;
+    right: -130px;
+    left: 125px;
+    bottom: -8.8px;
+    font-size: 12px;
+    line-height: 22px;
+    z-index: 1;
+  }
+  .view-details-button {
+    position: absolute;
+    top: 4.9px;
+    left: -22.7px;
+    height: 29.3px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .image-114-icon {
+    position: absolute;
+    top: 23.5px;
+    left: 80px;
+    border-radius: 4px;
+    width: 16px;
+    height: 16px;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .available-funds-container {
+    width: 90px;
+    height: 44px;
+    position: relative;
+    font-size: 14px;
+  }
+  .security-code1 {
+    position: relative;
+    line-height: 22px;
+  }
+  .renewal-required-message {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 1px;
+  }
+  .image-109-icon {
+    width: 19px;
+    height: 15px;
+    position: relative;
+    border-radius: 4px;
+    object-fit: cover;
+  }
+  .image2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 4px 12px 0 0;
+  }
+  .image-110-icon {
+    height: 18px;
+    width: 16px;
+    position: relative;
+    border-radius: 4px;
+    object-fit: cover;
+  }
+  .secure-login-required {
+    position: relative;
+    line-height: 20px;
+  }
+  .image-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0 7px;
+  }
+  .account-holder-frame {
+    gap: 1.5px 0;
+  }
+  .account-holder-frame,
+  .account-type-gold-label,
+  .gold-account-details-header {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .account-type-gold-label {
+    align-self: stretch;
+    gap: 19px 0;
+    font-size: 12px;
+    margin-left: 15px;
+  }
+  .gold-account-details-header {
+    width: 197px;
+    gap: 35.5px 0;
+    min-width: 197px;
+    font-size: 16px;
+  }
+  .gold-trading-account-title,
+  .image-background {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .image-background {
+    flex: 1;
+    gap: 0 23px;
+  }
+  .gold-trading-account-title {
+    width: 491px;
+    padding: 0 23px;
+    box-sizing: border-box;
+  }
+  .view-details1 {
+    position: relative;
+    font-size: 12px;
+    line-height: 22px;
+    font-family: Manrope;
+    color: #fff;
+    text-align: left;
+  }
+  .container-68,
+  .container-78 {
+    box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 0 1px rgba(23, 26, 31, 0.07);
+    display: flex;
+    align-items: flex-start;
+  }
+  .container-68 {
+    cursor: pointer;
+    border: 0;
+    padding: 15.5px 20px 11.5px;
+    background-color: #d90503;
+    align-self: stretch;
+    border-radius: 25px;
+    flex-direction: row;
+    justify-content: center;
+    margin: 10px;
+  }
+  .container-78 {
+    flex: 1;
+    border-radius: 19px;
+    background-color: #2f2f2e;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 22px 0 0 1px;
+    box-sizing: border-box;
+    gap: 23px 0;
+    min-width: 339px;
+    max-width: 100%;
+  }
+  .available-funds,
+  .rs-1000000 {
+    position: relative;
+    line-height: 22px;
+  }
+  .rs-1000000 {
+    line-height: 32px;
+  }
+  .account-holder-container,
+  .r-s-label {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .r-s-label {
+    flex-direction: row;
+    padding: 0 0 0 1px;
+    font-size: 20px;
+    font-family: Lexend;
+  }
+  .account-holder-container {
+    flex-direction: column;
+    gap: 1.5px 0;
+  }
+  .gold-trader {
+    position: relative;
+    line-height: 26px;
+  }
+  .account-holder2,
+  .john {
+    position: relative;
+    line-height: 22px;
+  }
+  .account-holder-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 20px;
+    font-size: 12px;
+  }
+  .container-71,
+  .physical-gold-owner-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .physical-gold-owner-container {
+    align-self: stretch;
+    gap: 18.5px 0;
+    font-size: 16px;
+  }
+  .container-71 {
+    flex: 1;
+    border-radius: 19px;
+    background-color: #d90503;
+    box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 0 1px rgba(23, 26, 31, 0.07);
+    padding: 109.5px 27px 18.5px 25px;
+    box-sizing: border-box;
+    gap: 57px 0;
+    min-width: 146px;
+  }
+  .physical-gold-ownership {
+    position: relative;
+    line-height: 26px;
+  }
+  .gold-details {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 2px;
+  }
+  .physical,
+  .type {
+    margin: 0;
+  }
+  .typephysical {
+    position: relative;
+    line-height: 21px;
+  }
+  .image-122-icon {
+    height: 16px;
+    width: 16px;
+    position: relative;
+    border-radius: 4px;
+    object-fit: cover;
+  }
+  .active-account {
+    position: relative;
+    line-height: 20px;
+  }
+  .login-secure-frame {
+    flex-direction: row;
+    gap: 0 6px;
+  }
+  .account-type-gold-frame,
+  .login-secure-frame,
+  .security-code-frame {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .security-code-frame {
+    flex-direction: column;
+    padding: 24.5px 0 0;
+    font-size: 12px;
+    color: #bdc1ca;
+  }
+  .account-type-gold-frame {
+    flex-direction: row;
+    gap: 0 21px;
+  }
+  .gold-ownership-id,
+  .gold1234 {
+    margin: 0;
+  }
+  .gold-ownership-idgold1234-container {
+    position: relative;
+    line-height: 20px;
+  }
+  .image-119-icon {
+    width: 18px;
+    height: 16px;
+    position: relative;
+    border-radius: 4px;
+    object-fit: cover;
+  }
+  .ownership-validity-frame {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 25px 0 0;
+  }
+  .physical-gold-frame {
+    width: 197px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  .ownership-validity,
+  .p {
+    margin-left: 23px;
+    margin-bottom: 10px;
+    margin-top: -5px;
+  }
+  .ownership-validity1224 {
+    position: relative;
+    line-height: 21px;
+  }
+  .renewal-required {
+    position: absolute;
+    margin: 0 !important;
+    right: -58.6px;
+    bottom: -7.5px;
+    font-size: 12px;
+    line-height: 20px;
+    color: #bdc1ca;
+    z-index: 1;
+  }
+  .physical-gold-ownership-frame {
+    position: absolute;
+    top: 5.2px;
+    left: -23.6px;
+    height: 31.3px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .image-121-icon {
+    position: absolute;
+    top: 25.5px;
+    left: 56px;
+    border-radius: 4px;
+    width: 16px;
+    height: 16px;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .ownership-details-frame {
+    height: 42px;
+    flex: 1;
+    position: relative;
+  }
+  .ownership-transfer-request-fra {
+    width: 122px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 1px;
+    box-sizing: border-box;
+  }
+  .ownership-certificate {
+    position: relative;
+    line-height: 22px;
+  }
+  .transfer-request {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    line-height: 32px;
+    font-weight: 700;
+    font-family: inherit;
+  }
+  .certificate-image {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 3px 0 0;
+  }
+  .image-120-icon {
+    width: 16px;
+    height: 18px;
+    position: relative;
+    border-radius: 4px;
+    object-fit: cover;
+  }
+  .ownership-i-d {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 6.5px 0 0;
+  }
+  .ownership-transfer-request {
+    position: relative;
+    line-height: 18px;
+  }
+  .ownership-details {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 7px 0 0;
+    font-size: 11px;
+    font-family: Manrope;
+  }
+  .ownership-validity1 {
+    align-self: stretch;
+    flex-direction: row;
+    gap: 0 7px;
+    margin-top: -5px;
+    font-size: 20px;
+    font-family: Lexend;
+  }
+  .ownership-details-container,
+  .ownership-validity1,
+  .view-details-container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .view-details-container {
+    flex: 1;
+    flex-direction: column;
+  }
+  .ownership-details-container {
+    align-self: stretch;
+    flex-direction: row;
+    padding: 0 0 0 1px;
+    font-size: 12px;
+  }
+  .account-number-frame,
+  .gold-details-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .account-number-frame {
+    align-self: stretch;
+    gap: 22.83px 0;
+    font-size: 14px;
+  }
+  .gold-details-parent {
+    width: 206px;
+    gap: 37.5px 0;
+    min-width: 206px;
+    font-size: 16px;
+  }
+  .available-funds-container1,
+  .available-funds-label {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .available-funds-label {
+    flex: 1;
+    align-items: flex-end;
+    gap: 0 23px;
+  }
+  .available-funds-container1 {
+    width: 500px;
+    align-items: flex-start;
+    padding: 0 23px;
+    box-sizing: border-box;
+  }
+  .view-details2 {
+    position: relative;
+    font-size: 12px;
+    line-height: 22px;
+    font-family: Manrope;
+    color: #fff;
+    text-align: left;
+  }
+  .container-69 {
+    cursor: pointer;
+    margin: 10px;
+    border: 0;
+    padding: 15.5px 20px 11.5px;
+    background-color: #d90503;
+    align-self: stretch;
+    border-radius: 25px;
+    box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 0 1px rgba(23, 26, 31, 0.07);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+  }
+  .account-details-frame,
+  .container-77 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .container-77 {
+    flex: 1;
+    border-radius: 19px;
+    background-color: #2f2f2e;
+    box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 0 1px rgba(23, 26, 31, 0.07);
+    flex-direction: column;
+    padding: 22px 0 0 1px;
+    box-sizing: border-box;
+    gap: 22.5px 0;
+    min-width: 339px;
+  }
+  .account-details-frame {
+    align-self: stretch;
+    flex-direction: row;
+    gap: 0 23px;
+    font-size: 12px;
+    font-family: Manrope;
+  }
+  .container-frame {
+    align-self: stretch;
+    flex-direction: column;
+    gap: 27.5px 0;
+    max-width: 100%;
+  }
+  .accounts,
+  .container-frame,
+  .image,
+  .verific {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .verific {
+    align-self: stretch;
+    flex-direction: column;
+    gap: 51px 0;
+    max-width: 100%;
+    text-align: left;
+    font-size: 20px;
+    color: #fff;
+    font-family: Lexend;
+  }
+  .accounts,
+  .image {
+    box-sizing: border-box;
+  }
+  .image {
+    width: 1800px;
+    flex-direction: column;
+    padding: 95px 0 0 240px;
+    max-width: 100%;
+  }
+  .accounts {
+    width: 100%;
+    position: relative;
+    background-color: #161616;
+    box-shadow: 0 3px 6px rgba(18, 15, 40, 0.12);
+    overflow: hidden;
+    flex-direction: row;
+    padding: 4px 0 0;
+    gap: 0 47px;
+    letter-spacing: normal;
+  }
+  @media screen and (max-width: 1250px) {
+    .accounts {
+      flex-wrap: wrap;
+    }
+  }
+  @media screen and (max-width: 1100px) {
+    .account-details-frame,
+    .login-button {
+      flex-wrap: wrap;
+    }
+    .image {
+      padding-top: 32px;
+      box-sizing: border-box;
+    }
+  }
+  @media screen and (max-width: 750px) {
+    .verific {
+      gap: 25px 0;
+    }
+    .image {
+      padding-top: 21px;
+      box-sizing: border-box;
+    }
+    .accounts {
+      gap: 0 23px;
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .accounts-and-cards {
+      font-size: 16px;
+      line-height: 26px;
+    }
+    .s-g-b {
+      flex-wrap: wrap;
+    }
+    .my-accounts {
+      font-size: 16px;
+      line-height: 26px;
+    }
+    .container-73,
+    .container-74 {
+      gap: 21px 0;
+    }
+    .physical-gold-1 {
+      font-size: 22px;
+      line-height: 34px;
+    }
+    .container-75 {
+      gap: 22px 0;
+    }
+    .my-cards,
+    .sgb-10-units {
+      font-size: 16px;
+      line-height: 26px;
+    }
+    .gold-account-details-header {
+      flex: 1;
+    }
+    .image-background {
+      flex-wrap: wrap;
+    }
+    .container-78 {
+      min-width: 100%;
+    }
+    .rs-1000000,
+    .transfer-request {
+      font-size: 16px;
+      line-height: 26px;
+    }
+    .gold-details-parent {
+      flex: 1;
+    }
+    .available-funds-label {
+      flex-wrap: wrap;
+    }
+    .container-77 {
+      min-width: 100%;
+    }
+  }
+  

@@ -1,0 +1,363 @@
+.sona2 {
+    margin-top: -80px;
+    position: relative;
+    font-size: inherit;
+    line-height: 48px;
+    font-weight: 700;
+    font-family: inherit;
+  }
+  .house-1-icon {
+    width: 20px;
+    height: 20px;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .recent-transactions-label {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0 15px;
+    margin-left: 15px;
+    margin-bottom: 10px;
+  }
+  .clear-button-label {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 1.5px 0 0;
+  }
+  .image-84-icon {
+    width: 24px;
+    height: 20px;
+    position: relative;
+    border-radius: 4px;
+    object-fit: cover;
+  }
+  .my-portfolio2 {
+    position: relative;
+    line-height: 24px;
+  }
+  .house-1-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 1px 0 0;
+    cursor: pointer;
+  }
+  .get-started {
+    position: relative;
+    line-height: 26px;
+    white-space: nowrap;
+    cursor: pointer;
+    color: #fff;
+  }
+  
+  .hoverLink :hover{
+    color: red;
+    font-weight: bold;
+  }
+  
+  .coffee-investments {
+    flex-direction: row;
+    gap: 0 19.5px;
+    cursor: pointer;
+  }
+  .coffee-investments,
+  .container-37,
+  .restaurants {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .restaurants {
+    flex-direction: row;
+    padding: 0 4px 0 3.5px;
+    font-size: 16px;
+    font-family: Manrope;
+  }
+  .container-37 {
+    border-radius: 4px;
+    background-color: black;
+    box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 0 1px rgba(23, 26, 31, 0.07);
+    flex-direction: column;
+    padding: 52px 41px 17px 25px;
+    gap: 54px 0;
+    font-family: Lexend;
+  }
+  .search-1-icon {
+    height: 24px;
+    width: 24px;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .search1 {
+    position: relative;
+    font-size: 16px;
+    line-height: 26px;
+    font-family: Manrope;
+    color: #fff;
+    text-align: left;
+  }
+  .grocery-gold-delivery {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0 13px;
+  }
+  .beauty-products-frame {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 2px;
+    background-color: #d80502;
+    width: 4px;
+    height: 40px;
+  }
+  .bookmark-icon {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+  }
+  .pizza-gold-deals {
+    height: 40px;
+    width: 40px;
+    position: relative;
+  }
+  .my-portfolio {
+    position: relative;
+    line-height: 22px;
+  }
+  .january,
+  .my-portfolio-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 9px 0 0;
+  }
+  .january {
+    border-radius: 4px;
+    background-color: transparent;
+    overflow: hidden;
+    flex-direction: row;
+    padding: 0 17px 0 0;
+    gap: 0 8px;
+    /* color: #d80502; */
+  }
+  .add-icon {
+    height: 24px;
+    width: 24px;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+    min-height: 24px;
+  }
+  .buy-gold {
+    position: relative;
+    line-height: 22px;
+  }
+  .buy-gold-wrapper,
+  .january1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 1px 0 0;
+  }
+  .january1 {
+    border-radius: 4px;
+    background-color: transparent;
+    overflow: hidden;
+    flex-direction: row;
+    padding: 8px 18px 8px 16px;
+    gap: 0 8px;
+  }
+  .favorite-icon {
+    height: 24px;
+    width: 24px;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+    min-height: 24px;
+  }
+  .favorites {
+    position: relative;
+    line-height: 22px;
+  }
+  .favorites-wrapper,
+  .january2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 1px 0 0;
+  }
+  .january2 {
+    border-radius: 4px;
+    background-color: transparent;
+    overflow: hidden;
+    flex-direction: row;
+    padding: 8px 40px 8px 16px;
+    gap: 0 8px;
+  }
+  .tech-investments {
+    align-self: stretch;
+    flex-direction: column;
+    cursor: pointer;
+  }
+  .first-column,
+  .grocery-gold-delivery-parent,
+  .tech-investments {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .grocery-gold-delivery-parent {
+    flex: 1;
+    flex-direction: column;
+    gap: 21px 0;
+  }
+  .first-column {
+    align-self: stretch;
+    flex-direction: row;
+    padding: 0 23px 414px 30px;
+    font-size: 14px;
+    color: #cfd2da;
+    background-color: black;
+  }
+  .settings-gear-1 {
+    height: 24px;
+    width: 24px;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .settings {
+    position: relative;
+    line-height: 26px;
+  }
+  .child-b,
+  .child-d {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .child-d {
+    flex-direction: column;
+    padding: 1px 0 0;
+  }
+  .child-b {
+    flex-direction: row;
+    gap: 0 13px;
+    cursor: pointer;
+  }
+  .lungs-1-icon {
+    height: 24px;
+    width: 24px;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .sign-out {
+    position: relative;
+    line-height: 26px;
+  }
+  .parent-b {
+    flex-direction: row;
+    gap: 0 14px;
+    cursor: pointer;
+  }
+  .child-a,
+  .container-39,
+  .parent-a,
+  .parent-b {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .child-a {
+    flex-direction: column;
+    gap: 22px 0;
+  }
+  .parent-a {
+    position: relative;
+    top: -105px;
+  }
+  @media screen and (max-width: 750px) {
+    .parent-a {
+      top: -150px;
+    }
+  }
+  @media screen and (min-width: 751px) and (max-width: 1306px) {
+    .parent-a {
+      top: -315px; 
+    }
+  }
+
+
+  
+  @media screen and (max-width: 450px) {
+    .parent-a {
+      top: -145px; /* Adjust this value for even smaller screens */
+    }
+  }
+  .container-39,
+  .parent-a {
+    flex-direction: row;
+    padding: 0 30px;
+    font-size: 16px;
+  }
+  .mainSidebar {
+    position: fixed;
+    top: 60px; 
+    left: 0;
+    height: calc(100vh - 60px);
+    overflow-y: hidden; 
+  }
+  .container-39 {
+    width: 200px;
+    background-color: black;
+    box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 0 1px rgba(23, 26, 31, 0.07);
+    flex-direction: column;
+    padding: 120px 0 45px;
+    box-sizing: border-box;
+    gap: 1px 0;
+    text-align: left;
+    font-size: 32px;
+    color: #fff;
+    font-family: Manrope;
+  }
+  @media screen and (max-width: 750px) {
+    .sona2 {
+      font-size: 26px;
+      line-height: 38px;
+    }
+    .container-39,
+    .first-column {
+      padding-bottom: 269px;
+      box-sizing: border-box;
+    }
+    .container-39 {
+      padding-bottom: 29px;
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .sona2 {
+      font-size: 19px;
+      line-height: 29px;
+    }
+  }
+  
